@@ -1,0 +1,50 @@
+# Trading: merged from Bybit, Wallet, Hyperliquid, TradingView (2026-11-03). Single policy Proxy in template.
+# Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit.eu
+DOMAIN-SUFFIX,bybit.kz
+DOMAIN-SUFFIX,bybit-tr.com
+DOMAIN-SUFFIX,byhkbit.com
+DOMAIN-SUFFIX,bybitgeorgia.ge
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,bytick.nl
+DOMAIN-SUFFIX,bybit-aws.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byffbb.com
+DOMAIN-SUFFIX,bybit.ada.support
+DOMAIN-SUFFIX,bybit-exchange.github.io
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.co
+DOMAIN-SUFFIX,mexc.fm
+DOMAIN-SUFFIX,flytogarden.com
+DOMAIN-SUFFIX,greentreeone.com
+DOMAIN-SUFFIX,hotbookzone.com
+DOMAIN-SUFFIX,coldbookfly.ru
+DOMAIN-SUFFIX,alookzone.com
+DOMAIN-SUFFIX,mocortech.com
+DOMAIN-SUFFIX,mxctech.com
+DOMAIN-KEYWORD,mexc
+# Wallet
+DOMAIN,relay.walletconnect.org
+DOMAIN,uni.onekey-asset.com
+DOMAIN,pulse.walletconnect.org
+DOMAIN,relay.walletconnect.com
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekeycn.com
+# Hyperliquid
+DOMAIN-SUFFIX,hyperliquid.xyz
+DOMAIN-SUFFIX,hyperliquid-testnet.xyz
+# TradingView
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,tradingview-widget.com
