@@ -1,4 +1,3 @@
-# Bybit
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybit.cloud
@@ -34,16 +33,13 @@ DOMAIN-SUFFIX,alookzone.com
 DOMAIN-SUFFIX,mocortech.com
 DOMAIN-SUFFIX,mxctech.com
 DOMAIN-KEYWORD,mexc
-# Wallet
 DOMAIN,relay.walletconnect.org
 DOMAIN,uni.onekey-asset.com
 DOMAIN,pulse.walletconnect.org
 DOMAIN,relay.walletconnect.com
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekeycn.com
-# Hyperliquid
 DOMAIN-SUFFIX,hyperliquid.xyz
 DOMAIN-SUFFIX,hyperliquid-testnet.xyz
-# TradingView
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tradingview-widget.com
