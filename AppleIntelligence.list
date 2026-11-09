@@ -1,4 +1,4 @@
-DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,api-siri-prod.apple.com
 DOMAIN-SUFFIX,apple-relay.apple.com
@@ -8,5 +8,5 @@ DOMAIN-SUFFIX,apple-relay.akamaized.net
 DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
 DOMAIN,cp4.cloudflare.com
 DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,seed.siri.apple.com
+DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,apple-carry-relay.cloudflare.com
