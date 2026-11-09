@@ -12,3 +12,9 @@ DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,apple-carry-relay.cloudflare.com
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,ls.apple.com
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask.apple-dns.net
+DOMAIN,mask-t.apple-dns.net
