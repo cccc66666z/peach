@@ -28,3 +28,4 @@ DOMAIN-SUFFIX,tencentwm.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechatpay.cn
 DOMAIN-SUFFIX,servicewechat.com
+IP-ASN,24429,no-resolve
